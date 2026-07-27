@@ -1,6 +1,5 @@
-# Pudding
+# It is as if you were doing work
 
-It's where the design proof is
 
 A GitHub Pages site that hosts every dated static build of a project and serves them
 one at a time, with a generated index linking to each.
